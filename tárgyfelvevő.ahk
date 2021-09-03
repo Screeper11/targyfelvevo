@@ -9,7 +9,7 @@
 
 
 kurzus1_X = 100
-kurzus1_Y = 150
+kurzus1_Y = 100
 
 kruzus2_X = 200
 kruzus2_Y = 200
