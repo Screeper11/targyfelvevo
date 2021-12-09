@@ -1,14 +1,14 @@
 # Tárgyfelvevő
 
 1. Töltsd le és telepítsd az [AHK programot](https://www.autohotkey.com/download/ahk-install.exe)
-2. Töltsd le a [tárgyfelvevő.ahk](tárgyfelvevő.ahk)-t
-3. tárgyfelvevő.ahk >> jobb klikk >> Edit Script
-4. Indítsd el a Window Spy-t
+2. Töltsd le a [tárgyfelvevő.ahk](https://github.com/Screeper11/targyfelvevo/releases/download/v1.0/targyfelvevo.ahk)-t
+4. tárgyfelvevő.ahk >> jobb klikk >> Edit Script
+5. Indítsd el a Window Spy-t
     - Elméletileg ha rékeresel start menüben kidobja
-5. Rakd az internet böngésződet max ablakméretre vagy teljes képernyőre
+6. Rakd az internet böngésződet max ablakméretre vagy teljes képernyőre
     - Fontos, különben ha átméretezed az ablakot, akkor máshol lesznek a gombok, így biztos fix lesz
-6. Nyisd meg Neptunban a tárgyat amit fel akarsz venni
-7. Vidd rá az egeret a Neptunban a gombra amit meg kell nyomnia a scriptnek
+7. Nyisd meg Neptunban a tárgyat amit fel akarsz venni
+8. Vidd rá az egeret a Neptunban a gombra amit meg kell nyomnia a scriptnek
     - Elméleti kurzus négyzete
     - Gyakorlat négyzete
     - Mentés gomb
